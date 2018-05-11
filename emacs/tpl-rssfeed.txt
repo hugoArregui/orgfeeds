@@ -1,0 +1,5 @@
+* %^{Title}
+ :PROPERTIES:
+ :TYPE: rss
+ :URL: %^{url}
+ :END:

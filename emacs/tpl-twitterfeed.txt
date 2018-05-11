@@ -1,0 +1,5 @@
+* %^{Title}
+ :PROPERTIES:
+ :TYPE: twitter
+ :URL: %^{url}
+ :END:
